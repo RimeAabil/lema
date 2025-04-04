@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940144485035",
+    "project_id": "lemadatabase",
+    "storage_bucket": "lemadatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940144485035:android:b46e7e55935bef665d4dee",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6Q_Cj98ope_dl2GfqWESdRqE9equVPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940144485035:android:a22df608593200ab5d4dee",
+        "android_client_info": {
+          "package_name": "com.example.lema_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6Q_Cj98ope_dl2GfqWESdRqE9equVPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
